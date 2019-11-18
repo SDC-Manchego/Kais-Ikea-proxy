@@ -11,5 +11,5 @@ app.use(morgan("dev"));
 
 app.use(express.static('public/lib'));
 app.listen(port, () => {
-  console.log(`Server running at: http://localhost:${port}`);
+  console.log(`Server running at: http://ec2-52-53-171-73.us-west-1.compute.amazonaws.com${port}`);
 });

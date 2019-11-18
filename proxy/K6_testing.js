@@ -10,7 +10,7 @@ export const options = {
 
 export default function () {
 
-  const res1 = http.get(`http://localhost:3000/?${Math.round(Math.random()*1000000)}`);
+  const res1 = http.get(`http://ec2-52-53-171-73.us-west-1.compute.amazonaws.com:3000/?${Math.round(Math.random()*1000000)}`);
   check(res1, {
     'status was 200': (r) => r.status == 200,
     'transaction time OK': (r) => r.timings.duration < 200,
