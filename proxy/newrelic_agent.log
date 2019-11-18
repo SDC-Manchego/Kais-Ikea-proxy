@@ -1,0 +1,205 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:32.879Z","msg":"Using New Relic for Node.js. Agent version: 6.1.0; Node version: v12.9.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:33.035Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:33.211Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:33.211Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:35.252Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:35.252Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BRowC8fTPp-8ACatVRuecStd0odIAAgBAAAnIQEAAAggAgQbnnEqAwAFNi4xLjAAD0xBUFRPUC1INFI5RjU3UgALUGlrZWEgUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:35.252Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2534741/applications/463368490","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:35.253Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":60000,\"harvest_limits\":{\"error_event_data\":100,\"custom_event_data\":1000,\"analytic_event_data\":10000}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:35.257Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:36.258Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:36.258Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:36.260Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:36.260Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:36.260Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:36.261Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2080,"time":"2019-11-18T11:56:36.261Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:49.424Z","msg":"Using New Relic for Node.js. Agent version: 6.1.0; Node version: v12.9.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:49.561Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:49.697Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:49.697Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:51.382Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:51.382Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BZ5S62TC2e5eACatVRuecStd0odIAAgBAAAnIQEAAAhMAgQbnnEqAwAFNi4xLjAAD0xBUFRPUC1INFI5RjU3UgALUGlrZWEgUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:51.382Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2534741/applications/463368490","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:51.384Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":60000,\"harvest_limits\":{\"error_event_data\":100,\"custom_event_data\":1000,\"analytic_event_data\":10000}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:51.391Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:52.393Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:52.393Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:52.394Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:52.395Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:52.395Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:52.395Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:56:52.395Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:57:52.485Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:57:52.490Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:57:52.490Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:57:52.490Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:57:52.490Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:57:52.490Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:58:52.485Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:58:52.490Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:58:52.491Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:58:52.491Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:58:52.491Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:58:52.491Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:59:52.486Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:59:52.490Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:59:52.491Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:59:52.491Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:59:52.491Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2124,"time":"2019-11-18T11:59:52.491Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:53.078Z","msg":"Using New Relic for Node.js. Agent version: 6.1.0; Node version: v12.9.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:53.255Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:53.424Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:53.424Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:55.280Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:55.281Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BeVng46UUoPQACatVRuecStd0of8AAgBAAAnIQEAAAtHAgQbnnEqAwAFNi4xLjAAD0xBUFRPUC1INFI5RjU3UgALUGlrZWEgUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:55.281Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2534741/applications/463368490","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:55.285Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":60000,\"harvest_limits\":{\"error_event_data\":100,\"custom_event_data\":1000,\"analytic_event_data\":10000}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:55.289Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:56.290Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:56.291Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:56.292Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:56.293Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:56.293Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:56.293Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T11:59:56.293Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T12:00:56.375Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T12:00:56.376Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T12:00:56.376Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T12:00:56.376Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T12:00:56.376Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2887,"time":"2019-11-18T12:00:56.376Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:05.383Z","msg":"Using New Relic for Node.js. Agent version: 6.1.0; Node version: v12.9.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:05.526Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:05.670Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:05.670Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:07.321Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:07.322Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BUBLpS7F7iRIACatVRuecStd0oh0AAgBAAAnIQEAAAtbAgQbnnEqAwAFNi4xLjAAD0xBUFRPUC1INFI5RjU3UgALUGlrZWEgUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:07.322Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2534741/applications/463368490","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:07.323Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":60000,\"harvest_limits\":{\"error_event_data\":100,\"custom_event_data\":1000,\"analytic_event_data\":10000}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:07.326Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:08.327Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:08.328Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:08.329Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:08.330Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:08.330Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:08.330Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2907,"time":"2019-11-18T12:01:08.330Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:31.061Z","msg":"Using New Relic for Node.js. Agent version: 6.1.0; Node version: v12.9.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:31.231Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:31.374Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:31.374Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:33.080Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:33.080Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BcEuzZCyUZ1eACatVRuecStd0oh0AAgBAAAnIQEAAAt8AgQbnnEqAwAFNi4xLjAAD0xBUFRPUC1INFI5RjU3UgALUGlrZWEgUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:33.080Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2534741/applications/463368490","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:33.082Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":60000,\"harvest_limits\":{\"error_event_data\":100,\"custom_event_data\":1000,\"analytic_event_data\":10000}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:33.085Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:34.086Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:34.087Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:34.088Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:34.088Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:34.088Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:34.089Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:01:34.089Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:02:34.171Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:02:34.172Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:02:34.172Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:02:34.172Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:02:34.172Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:02:34.173Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:03:34.173Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:03:34.180Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:03:34.180Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:03:34.180Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":2940,"time":"2019-11-18T12:03:34.240Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:47.619Z","msg":"Using New Relic for Node.js. Agent version: 6.1.0; Node version: v12.9.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:47.763Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:47.914Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:47.914Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:49.716Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:49.716Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BbFOn76ahWnpACatVRuecStd0ojsAAgBAAAnIQEAAAvLAgQbnnEqAwAFNi4xLjAAD0xBUFRPUC1INFI5RjU3UgALUGlrZWEgUHJveHk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:49.717Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2534741/applications/463368490","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:49.718Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":60000,\"harvest_limits\":{\"error_event_data\":100,\"custom_event_data\":1000,\"analytic_event_data\":10000}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:49.720Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:50.721Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:50.721Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:50.723Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:50.723Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:50.723Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:50.724Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:03:50.724Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:04:50.809Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:04:50.815Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:04:50.815Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:04:50.815Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:04:50.897Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:05:50.810Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:05:50.819Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:05:50.820Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:05:50.820Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:05:50.905Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:06:50.810Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:06:50.820Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:06:50.821Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:06:50.821Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:06:50.906Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:07:50.810Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:07:50.823Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:07:50.823Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:07:50.823Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:07:50.933Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:08:50.810Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:08:50.824Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:08:50.824Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:08:50.824Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:08:50.824Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:08:50.933Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:09:50.810Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:09:50.825Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:09:50.825Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:09:50.825Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:09:50.825Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:09:50.933Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:10:50.810Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:10:50.825Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:10:50.825Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:10:50.825Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:10:50.825Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:10:50.934Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:11:50.811Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:11:50.826Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:11:50.826Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:11:50.826Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:11:50.826Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:11:50.935Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:12:50.811Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:12:50.826Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:12:50.826Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:12:50.826Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:12:50.827Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:12:50.935Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:13:50.812Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:13:50.828Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:13:50.828Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:13:50.829Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:13:50.829Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:13:50.936Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:14:50.813Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:14:50.828Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:14:50.829Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:14:50.829Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:14:50.829Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:14:50.937Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:15:50.813Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:15:50.828Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:15:50.828Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:15:50.828Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:15:50.829Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:15:50.937Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:16:50.814Z","msg":"metric_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:16:50.829Z","msg":"error_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:16:50.829Z","msg":"error_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:16:50.829Z","msg":"transaction_sample_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:16:50.830Z","msg":"analytic_event_data Aggregator data send.","component":"base_aggregator"}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-H4R9F57R","pid":3019,"time":"2019-11-18T12:16:50.937Z","msg":"custom_event_data Aggregator data send.","component":"base_aggregator"}
